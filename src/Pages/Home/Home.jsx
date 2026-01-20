@@ -1,0 +1,47 @@
+import React from "react";
+import Information from "../../Components/Information";
+import AboutSystem from "../../Components/AboutSystem";
+import Banner from "../../Components/Banner";
+import Rules from "../../Components/Rules";
+import ProductCard from "../../Components/ProductCard";
+import { Link, useLoaderData } from "react-router";
+
+const Home = () => {
+  const latestProducts = useLoaderData();
+
+  return (
+    <div>
+      <div>
+        <Banner />
+      </div>
+
+      <div className="w-[95%] mx-auto">
+        <h2 className="text-center text-xl md:text-3xl font-bold mt-10">
+          Latest Products
+        </h2>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-5 my-7">
+          {latestProducts.map((product) => (
+            <div key={product._id}>
+              <ProductCard product={product} />
+            </div>
+          ))}
+        </div>
+
+        <div className="text-center">
+          <Link
+            to={"/all-products"}
+            className="btn bg-gradient-to-r from-[#FF974D] to-[#FF6F00] text-white hover:opacity-90 border-none"
+          >
+            Show All
+          </Link>
+        </div>
+      </div>
+      <Rules />
+      <AboutSystem />
+      <Information />
+    </div>
+  );
+};
+
+export default Home;

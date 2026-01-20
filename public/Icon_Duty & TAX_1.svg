@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #adb2bd;
+      }
+
+      .cls-2 {
+        fill: #838383;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        fill: #808285;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: #6d6e71;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        fill: #fff;
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 2.14px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path class="cls-7" d="M42.43,47.95V4.5c0-.1-.01-.21-.03-.31-.02-.1-.05-.19-.09-.28-.04-.09-.09-.18-.14-.26-.03-.04-.06-.08-.09-.12-.28-.34-.7-.55-1.17-.55h0-6.15v1.04h-.82v2.19h6.97v41.58H9.21V6.21h6.97v-2.19h-.82v-1.04h-6.27c-.84,0-1.52.68-1.52,1.52v43.45c0,.84.68,1.52,1.52,1.52h31.83c.84,0,1.52-.68,1.52-1.52Z"/>
+  <rect class="cls-7" x="16.87" y="4.02" width="16.38" height="2.19"/>
+  <polygon class="cls-1" points="33.25 6.21 33.25 7.47 16.87 7.47 16.87 6.21 16.87 4.02 16.18 4.02 16.18 6.21 16.18 8.16 33.94 8.16 33.94 7.81 33.94 6.21 33.94 4.02 33.25 4.02 33.25 6.21"/>
+  <polygon class="cls-5" points="16.18 4.02 16.87 4.02 33.25 4.02 33.94 4.02 34.76 4.02 34.76 2.98 34.76 .53 15.36 .53 15.36 2.98 15.36 4.02 16.18 4.02"/>
+  <rect class="cls-2" x="12.57" y="11.32" width="12.5" height="5.84"/>
+  <rect class="cls-1" x="27.78" y="11.46" width="10.41" height=".55"/>
+  <rect class="cls-1" x="31.09" y="16.58" width="7.1" height=".55"/>
+  <rect class="cls-1" x="27.78" y="16.58" width="2.79" height=".55"/>
+  <rect class="cls-1" x="27.78" y="14.96" width="6.62" height=".55"/>
+  <rect class="cls-1" x="27.78" y="13.28" width="2.79" height=".55"/>
+  <rect class="cls-1" x="35.18" y="14.96" width="3.01" height=".55"/>
+  <rect class="cls-1" x="12.57" y="22.03" width="16.61" height=".55"/>
+  <rect class="cls-1" x="23.99" y="45.47" width="14.2" height=".55"/>
+  <rect class="cls-1" x="12.53" y="23.68" width="25.66" height=".55"/>
+  <rect class="cls-1" x="31.59" y="13.28" width="6.6" height=".55"/>
+  <path class="cls-1" d="M12.29,26.22l-.04,17.37h26.22v-17.64H12.29v.27ZM12.84,26.5h7.92v16.54h-7.96l.04-16.54ZM37.92,43.04h-16.6v-16.54h16.6v16.54Z"/>
+  <text class="cls-10" transform="translate(13.49 14.86)"><tspan class="cls-6" x="0" y="0">D</tspan><tspan x="1.5" y="0">u</tspan><tspan class="cls-3" x="2.75" y="0">t</tspan><tspan x="3.54" y="0">y &amp;</tspan><tspan class="cls-8" x="6.54" y="0"> </tspan><tspan class="cls-4" x="6.89" y="0">T</tspan><tspan class="cls-9" x="7.91" y="0">A</tspan><tspan x="9.26" y="0">X</tspan></text>
+</svg>
